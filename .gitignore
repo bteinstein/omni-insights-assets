@@ -1,0 +1,3 @@
+# Intermediate tracing artifacts
+conversion/*.bmp
+conversion/layer-*.svg
